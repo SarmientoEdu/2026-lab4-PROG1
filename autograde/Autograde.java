@@ -17,7 +17,7 @@ import java.util.regex.*;
  * Se ejecuta solo en GitHub Actions en cada push:   java autograde/Autograde.java
  * (tambien pueden correrlo localmente para ver su nota; en local NO se sube nada).
  *
- * >>> DOCENTE: pegue aqui su URL y su anon key de Supabase antes de publicar el template. <<<
+ * 
  */
 public class Autograde {
 
